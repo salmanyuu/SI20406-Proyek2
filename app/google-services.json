@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246677353757",
+    "project_id": "servis-yuk",
+    "storage_bucket": "servis-yuk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246677353757:android:c07519631c67fef0575df4",
+        "android_client_info": {
+          "package_name": "com.example.bengkel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246677353757-jqq84lfr8rcrbr635i7gt737vnpuglk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bengkel",
+            "certificate_hash": "4922982a3d365c42879a32a7b63c3e160d718d23"
+          }
+        },
+        {
+          "client_id": "246677353757-ff7m8p6knorpcdd2sdvu8bogol7qruo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV95LPrECamVpCaHAfFNusF2DOXN1gLWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246677353757-ff7m8p6knorpcdd2sdvu8bogol7qruo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

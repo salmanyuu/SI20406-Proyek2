@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    android:layout_margin="13sp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tanggal"
+            android:textColor="#000"
+            android:padding="5dp"
+            android:id="@+id/tanggal"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/plat_nomor"
+            android:textColor="#000"
+            android:padding="5dp"
+            android:id="@+id/plat_text"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/jenis_merk_kendaraan"
+            android:textColor="#000"
+            android:padding="5dp"
+            android:id="@+id/jkendaraan_text"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nama_pemilik"
+            android:textColor="#000"
+            android:padding="5dp"
+            android:id="@+id/pemilik_text"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/keluhan"
+            android:textColor="#000"
+            android:padding="5dp"
+            android:id="@+id/keluhan_text"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
